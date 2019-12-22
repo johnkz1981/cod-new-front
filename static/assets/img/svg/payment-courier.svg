@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="96px" height="62px" viewBox="0 0 96 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>payment-courier</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Каталог" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Оформить-заказ" transform="translate(-454.000000, -645.000000)">
+            <g id="Способы-доставки" transform="translate(328.000000, 562.000000)">
+                <g id="Доставка-курьером" transform="translate(0.000000, 49.000000)">
+                    <g id="payment-courier" transform="translate(126.000000, 36.000000)">
+                        <rect id="Rectangle-9" fill="#BAABDF" x="13" y="15" width="29" height="3" rx="1.5"></rect>
+                        <rect id="Rectangle-9-Copy" fill="#BAABDF" x="19" y="24" width="18" height="3" rx="1.5"></rect>
+                        <circle id="Oval-2" fill="#BAABDF" cx="7.5" cy="16.5" r="1.5"></circle>
+                        <circle id="Oval-2-Copy" fill="#BAABDF" cx="1.5" cy="16.5" r="1.5"></circle>
+                        <circle id="Oval-3" stroke="#BAABDF" stroke-width="3" cx="86.5" cy="8.5" r="6.5"></circle>
+                        <path d="M40.5,-4.25337613e-05 L61.4072019,-8.50390497e-05 C61.4707848,-8.50390497e-05 61.5342228,0.00597884672 61.5966543,0.0180242618 C63.4131102,0.368487869 65.3808921,1.36246721 67.5,2.99996228 C69.6158894,4.63497037 71.2600894,6.43047414 72.4326,8.38647359 L72.4325978,8.38647492 C72.4763492,8.45946165 72.5153979,8.53516627 72.5495057,8.61312717 L78.152708,21.4204673 C78.989704,23.333604 80.761195,24.673955 82.8298278,24.9592841 L94,26.5" id="Path-5" stroke="#BAABDF" stroke-width="3" stroke-linecap="round"></path>
+                        <path d="M49,58 L68.6894412,49.892583 C71.2428693,48.8411715 72.4604942,45.9188716 71.4090827,43.3654435 C71.2651421,43.0158736 71.0820203,42.6837559 70.8632279,42.3754575 L63.9692612,32.6612318 C63.6957289,32.2757998 63.7293904,31.7514938 64.0499649,31.4042046 L69.5,25.5 L74.4296786,31.7741364 C74.7915497,32.2346997 75.337126,32.513485 75.9223792,32.5368952 L87.5,33" id="Path-6" stroke="#BAABDF" stroke-width="3" stroke-linecap="round"></path>
+                        <path d="M45,54 L60,44.5 L53.5994338,36.6223801 C49.8178601,31.9681356 50.0527494,25.2367162 54.1495449,20.8573831 L60.9912791,13.5438051 C61.2931721,13.2210919 61.3474515,12.7384883 61.1247866,12.356777 L58.7309614,8.25307665 C58.2692293,7.46153597 57.4710483,6.92443547 56.5638887,6.79484125 L47.5,5.5" id="Path-7" stroke="#BAABDF" stroke-width="3" stroke-linecap="round"></path>
+                        <path d="M25,54 L47.5,41.5" id="Path-8" stroke="#BAABDF" stroke-width="3" stroke-linecap="round"></path>
+                        <path d="M44.5,32.5 L19.5,50.5" id="Path-9" stroke="#BAABDF" stroke-width="3" stroke-linecap="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="36px" viewBox="0 0 46 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="-111.403611%" y1="-63.2093713%" x2="182.07513%" y2="109.981884%" id="linearGradient-1">
+            <stop stop-color="#60DCB8" offset="0%"></stop>
+            <stop stop-color="#39A9E0" offset="34.067771%"></stop>
+            <stop stop-color="#A155E0" offset="70.5279695%"></stop>
+            <stop stop-color="#F7A943" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="-166.532759%" y1="-85.2718789%" x2="107.74292%" y2="72.7018229%" id="linearGradient-2">
+            <stop stop-color="#60DCB8" offset="0%"></stop>
+            <stop stop-color="#39A9E0" offset="34.067771%"></stop>
+            <stop stop-color="#A155E0" offset="70.5279695%"></stop>
+            <stop stop-color="#F7A943" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="0%" x2="107.74292%" y2="72.7018229%" id="linearGradient-3">
+            <stop stop-color="#60DCB8" offset="0%"></stop>
+            <stop stop-color="#39A9E0" offset="34.067771%"></stop>
+            <stop stop-color="#A155E0" offset="70.5279695%"></stop>
+            <stop stop-color="#F7A943" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Каталог" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Товар-добавлен-в-корзину" transform="translate(-329.000000, -15.000000)">
+            <g id="Group">
+                <g id="Group-2" transform="translate(329.000000, 15.000000)">
+                    <circle id="Oval" fill="url(#linearGradient-1)" cx="19.5" cy="32.5" r="3.5"></circle>
+                    <circle id="Oval-Copy" fill="url(#linearGradient-2)" cx="33.5" cy="32.5" r="3.5"></circle>
+                    <path d="M2.02302476,-4.61852778e-14 C4.16476333,-4.61852778e-14 6.30650191,-4.61852778e-14 8.44824048,-4.61852778e-14 C9.74454528,-4.43838768e-14 10.8942252,0.832613304 11.2985669,2.0642439 L12.6439047,6.16216216 L43.0292783,6.16216216 C44.1338478,6.16216216 45.0292783,7.05759266 45.0292783,8.16216216 C45.0292783,8.42508078 44.9774385,8.68541947 44.8767247,8.9282835 L38.4433939,24.441797 C38.1336406,25.1887447 37.4045747,25.6756757 36.5959475,25.6756757 L17.0950657,25.6756757 C16.2463208,25.6756757 15.490009,25.139971 15.2083794,24.3393133 L8.32713025,4.7762893 C8.18631548,4.37596045 7.80815957,4.10810811 7.38378711,4.10810811 C5.59686632,4.10810811 3.80994554,4.10810811 2.02302476,4.10810811 C1.01151238,4.10810811 0,3.69524473 0,2.05405405 C1.59677179e-16,0.412863382 1.01151238,-4.61852778e-14 2.02302476,-4.61852778e-14 Z M14.481939,10.8387195 L18.261939,21.3387195 C18.404772,21.7354777 18.7811413,22 19.2028264,22 L34.34748,22 C34.7440171,22 35.1030942,21.765695 35.262795,21.4027386 L39.882795,10.9027386 C40.1052214,10.3972241 39.8757331,9.80711136 39.3702186,9.58468497 C39.2432958,9.52883895 39.1061456,9.5 38.96748,9.5 L15.4228264,9.5 C14.8705417,9.5 14.4228264,9.94771525 14.4228264,10.5 C14.4228264,10.6154726 14.4428262,10.7300728 14.481939,10.8387195 Z" id="Combined-Shape" fill="url(#linearGradient-3)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

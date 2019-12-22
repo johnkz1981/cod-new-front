@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="18px" viewBox="0 0 19 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>bottom-nav-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M20.2462295,7.50113633e-06 C17.6693236,-0.00382631456 15.3158376,1.46220163 14.1831344,3.77681651 C13.0504311,6.09143138 13.3368452,8.84934742 14.9209999,10.8818121 L9.24703844,16.5497757 C9.03398054,16.7628336 8.95077196,17.0733723 9.02875656,17.3644148 C9.10674116,17.6554573 9.33407123,17.8827873 9.62511373,17.9607719 C9.91615623,18.0387565 10.2266949,17.9555479 10.4397528,17.74249 L16.1137142,12.0693854 C18.44257,13.8805435 21.6782592,13.968017 24.1015675,12.2853286 C26.5248757,10.6026403 27.5734101,7.54030257 26.6900541,4.72542332 C25.8066982,1.91054408 23.1964582,-0.00360940813 20.2462295,7.50113633e-06 Z M20.2462295,11.8089076 C18.1990369,11.8092542 16.3532314,10.5763218 15.5695646,8.68506198 C14.7858977,6.79380213 15.2187116,4.61669575 16.6661729,3.16898944 C18.1136341,1.72128314 20.2906672,1.28810064 22.1820597,2.07144726 C24.0734522,2.85479388 25.306697,4.70039061 25.306697,6.7475832 C25.3010345,9.53949817 23.0381476,11.8008525 20.2462295,11.8046234 L20.2462295,11.8089076 Z" id="path-1"></path>
+        <filter x="-11.1%" y="-11.1%" width="122.2%" height="122.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Навигация-снизу" transform="translate(-254.000000, -8.000000)">
+            <g id="Group-3">
+                <g transform="translate(24.000000, 8.000000)">
+                    <g id="Поиск" transform="translate(221.250000, 0.000000)">
+                        <g id="bottom-nav-search">
+                            <use fill="#5C5C5C" fill-rule="evenodd" xlink:href="#path-1"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="38px" viewBox="0 0 38 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">   
+    <g id="Личный-кабинет" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Избранные-товары" transform="translate(-1403.000000, -31.000000)">
+            <g id="header" transform="translate(1.000000, 0.000000)">
+                <g id="ava" transform="translate(1402.000000, 31.000000)">
+                    <rect id="Rectangle-5" fill="#E8E8E8" fill-rule="nonzero" x="0" y="0" width="38" height="38"></rect>
+                    <ellipse id="Oval" stroke="#626262" stroke-width="2" cx="19" cy="14" rx="4" ry="5"></ellipse>
+                    <path d="M11.2399106,26.2770596 C12.3493723,21.4256865 14.9360688,19 19,19 C23.0639246,19 25.6506193,21.4256787 26.760084,26.277036 L26.7601112,26.2770298 C26.8832389,26.8154302 26.5465938,27.3517047 26.0081933,27.4748323 C25.9350585,27.4915577 25.8602739,27.5 25.785251,27.5 L12.2147679,27.5000246 C11.6624695,27.5000246 11.2147433,27.0522983 11.2147433,26.5 C11.2147433,26.4249778 11.2231855,26.3501938 11.2399106,26.2770596 Z" id="Path-2" stroke="#626262" stroke-width="2" stroke-linecap="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
